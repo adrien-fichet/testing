@@ -182,6 +182,7 @@
 - [SpiraPlan (project management)](https://www.inflectra.com/SpiraPlan/)
 - [Symflower (IDE plugin for TDD)](https://symflower.com/en/)
 - [Web font identifier](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
+- [Wireshark (network protocol analyzer)](https://www.wireshark.org/)
 
 ## JSON
 - [JSON Crack (json data visualization)](https://jsoncrack.com/)
