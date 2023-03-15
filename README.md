@@ -132,6 +132,7 @@
 ## CI
 - [Travis CI](https://www.travis-ci.com/)
 - [Jenkins](https://www.jenkins.io/)
+- [Circle CI](https://circleci.com/)
 
 ## Performance / load testing
 - [Gatling](https://gatling.io/)
