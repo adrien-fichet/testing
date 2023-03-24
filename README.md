@@ -2,12 +2,11 @@
 - [Ministry of Testing](https://www.ministryoftesting.com/)
 - [MoT tools list](https://www.ministryoftesting.com/directories/tools)
 - [Dev.to #testing](https://dev.to/t/testing)
-- [La taverne du testeur](https://latavernedutesteur.fr/)
+- [La taverne du testeur](https://latavernedutesteur.fr/) (FR)
 - [Software Testing Weekly](https://softwaretestingweekly.com/)
 
-# Organismes de certification
-- [CFTL](https://www.cftl.fr/)
-- [CTFL (Bruno Legeard)](https://www.cftl.fr/cf-tl/a-propos-du-cftl/)
+# Certifications
+- [CFTL](https://www.cftl.fr/) (FR)
 - [ISTQB](https://www.istqb.org/)
 
 
@@ -18,8 +17,8 @@
 - [TestRail](https://www.gurock.com/testrail)
 - [Agilitest](https://fr.agilitest.com/)
 - [Aqua ALM](https://aqua-cloud.io/)
-- [Refertest (SaaS, payant)](https://referty.com/en/home/)
-- [HP ALM / Quality Center (payant)](https://www.microfocus.com/fr-fr/products/alm-quality-center/overview)
+- [Refertest](https://referty.com/en/home/)
+- [HP ALM / Quality Center](https://www.microfocus.com/fr-fr/products/alm-quality-center/overview)
 - [National Instruments (Labview, Teststand)](https://www.ni.com/fr-fr.html)
 - [XStudio](https://www.xqual.fr/)
 - [Testlink](https://testlink.org/)
@@ -35,7 +34,7 @@
 - [Tuskr](https://tuskr.app/)
 
 ## Browser automation
-- [Watir (Ruby)](http://watir.com/)
+- [Watir](http://watir.com/) (Ruby)
 - [Selenium](https://www.selenium.dev/selenium/docs/api/javascript/index.html)
 - [SeleniumBase Case Plans](https://github.com/seleniumbase/SeleniumBase/blob/master/help_docs/case_plans.md)
 - [Pupeteer](https://pptr.dev/)
@@ -62,7 +61,7 @@
 
 ## Web Frontend testing
 - [Cypress](https://www.cypress.io/)
-- [Pylenium (selenium + cypress in Python)](https://github.com/ElSnoMan/pyleniumio)
+- [Pylenium](https://github.com/ElSnoMan/pyleniumio) (selenium + cypress in Python)
 - [Playwright](https://playwright.dev/)
 - [Testing library](https://testing-library.com/)
 - [Test Café](https://testcafe.io/)
@@ -75,7 +74,7 @@
 - [Mocha JS](https://mochajs.org/)
 - [Storybook](https://storybook.js.org/#test)
 - [Webdriver.io](https://webdriver.io/)
-- [AVA (node.js)](https://github.com/avajs/ava)
+- [AVA](https://github.com/avajs/ava) (node.js testing)
 - [Vitest](https://vitest.dev/)
 - [Lambda Test](https://www.lambdatest.com/)
 - [QUnit](https://qunitjs.com/)
@@ -85,10 +84,10 @@
 ## Mobile App testing
 - [Maestro](https://maestro.mobile.dev/)
 - [Appium](https://appium.io/)
-- [Espresso (Android)](https://developer.android.com/training/testing/espresso)
+- [Espresso](https://developer.android.com/training/testing/espresso) (Android)
 - [Sonic](https://github.com/SonicCloudOrg)
 - [Suitest](https://suite.st/)
-- [Vysor (android remote control on PC)](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor)
+- [Vysor](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor) (android remote control on PC)
 
 ## Email / SMS testing
 - [Mailosaur](https://mailosaur.com/)
@@ -99,14 +98,14 @@
 - [SOAPUI](https://www.soapui.org/)
 - [Hyper Test](https://www.hypertest.co/)
 - [Keploy](https://github.com/keploy/keploy)
-- [RestSharp (.NET)](https://restsharp.dev/)
+- [RestSharp](https://restsharp.dev/) (.NET)
 - [Pactum JS](https://pactumjs.github.io/)
 
 ## BDD
 - [Cucumber](https://cucumber.io/)
 - [Gherkin](https://cucumber.io/docs/gherkin/)
 - [Behat](https://docs.behat.org/en/latest/)
-- [SpecFlow (.NET)](https://specflow.org/)
+- [SpecFlow](https://specflow.org/) (.NET)
 - [Living Doc](https://github.com/LivingDoc/livingdoc)
 - [Chai](https://www.chaijs.com/)
 - [Jasmine JS](https://jasmine.github.io/)
@@ -120,7 +119,7 @@
 - [Test NG](https://testng.org/doc/)
 
 ## Security testing
-- https://www.kiuwan.com/
+- [Kiuwan](https://www.kiuwan.com/)
 - [Burp Suite](https://portswigger.net/burp)
 - [Metasploit](https://www.metasploit.com/)
 - [Nmap](https://nmap.org/)
@@ -163,29 +162,29 @@
 
 ## Generics
 - [1password](https://1password.com/)
-- [Agent Ransack (file search)](https://www.mythicsoft.com/agentransack/)
-- [Audacity](https://www.audacityteam.org/)
+- [Agent Ransack](https://www.mythicsoft.com/agentransack/) (file search)
+- [Audacity](https://www.audacityteam.org/) (audio)
 - [Clipboard manager](https://ditto-cp.sourceforge.io/)
-- [Fig (terminal auto-completion)](https://fig.io/)
-- [Foresight (CI analysis)](https://www.runforesight.com/)
-- [Freemind (mind mapping)](https://freemind.sourceforge.net/wiki/index.php/Main_Page)
-- [Great Expectations (data validation)](https://greatexpectations.io/)
+- [Fig](https://fig.io/) (terminal auto-completion)
+- [Foresight](https://www.runforesight.com/) (CI analysis)
+- [Freemind](https://freemind.sourceforge.net/wiki/index.php/Main_Page) (mind mapping)
+- [Great Expectations](https://greatexpectations.io/) (data validation)
 - [Hardware simulation](https://www.withdiode.com/)
-- [k9scli (Kubernetes terminal-based UI)](https://k9scli.io/)
-- [Netlimiter (Network bandwidth control)](https://www.netlimiter.com/)
-- [Page Probe (web page monitor)](https://nodetics.com/pageprobe/)
-- [Provar (Salesforce testing)](https://www.provartesting.com/)
-- [Q-Bot (2 factor authorization testing)](https://bot.q-leap.eu/en/)
-- [Ressemble (image analysis and comparison)](https://github.com/rsmbl/Resemble.js)
-- [Studio 3T (ex Robo 3T, MongoDB GUI)](https://studio3t.com/free)
-- [SonarQube (Static code analysis)](https://www.sonarqube.org/)
-- [SpiraPlan (project management)](https://www.inflectra.com/SpiraPlan/)
-- [Symflower (IDE plugin for TDD)](https://symflower.com/en/)
-- [Web font identifier](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
-- [Wireshark (network protocol analyzer)](https://www.wireshark.org/)
+- [k9scli](https://k9scli.io/) (Kubernetes terminal-based UI)
+- [Netlimiter](https://www.netlimiter.com/) (Network bandwidth control)
+- [Page Probe](https://nodetics.com/pageprobe/) (web page monitor)
+- [Provar](https://www.provartesting.com/) (Salesforce testing)
+- [Q-Bot](https://bot.q-leap.eu/en/) (2 factor authorization testing)
+- [Ressemble](https://github.com/rsmbl/Resemble.js) (image analysis and comparison)
+- [Studio 3T](https://studio3t.com/free) (ex Robo 3T, MongoDB GUI)
+- [SonarQube](https://www.sonarqube.org/) (Static code analysis)
+- [SpiraPlan](https://www.inflectra.com/SpiraPlan/) (project management)
+- [Symflower](https://symflower.com/en/) (IDE plugin for TDD)
+- [Web font identifier](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) (chrome plugin)
+- [Wireshark](https://www.wireshark.org/) (network protocol analyzer)
 
 ## JSON
-- [JSON Crack (json data visualization)](https://jsoncrack.com/)
+- [JSON Crack](https://jsoncrack.com/) (json data visualization)
 - [JSON Lint](https://jsonlint.com/)
 
 ## App profiling
@@ -198,14 +197,14 @@
 - [Marker.io](https://marker.io/)
 
 ## Screen recorders
-- [GIPHY Capture (macOS only)](https://giphy.com/apps/giphycapture)
+- [GIPHY Capture](https://giphy.com/apps/giphycapture) (macOS only)
 - [Flashback Express](https://www.flashbackrecorder.com/express/)
 - [Licecap](https://www.cockos.com/licecap/)
 - [Loom](https://www.loom.com/)
 - [Monosnap](https://monosnap.com/)
 - [Peek](https://github.com/phw/peek)
 - [Recordit](https://recordit.co/)
-- [Dashcam (ex-Replayable)](https://www.dashcam.io/)
+- [Dashcam](https://www.dashcam.io/) (ex-Replayable)
 - [Screenpresso](https://www.screenpresso.com/)
 - [ShareX](https://getsharex.com/)
 - [Tether](https://www.tethered.dev/)
@@ -217,9 +216,9 @@
 ## PDF
 - [PDF converter](https://www.cutepdf.com/index.htm)
 - [PDF diff](https://vslavik.github.io/diff-pdf/)
-- [PDF Mantis (data extraction)](https://github.com/grayson-norland/pdf-mantis)
+- [PDF Mantis](https://github.com/grayson-norland/pdf-mantis) (data extraction)
 
 ## Random data generators
 - [Mockaroo](https://www.mockaroo.com/)
-- [Faker JS (random data generation)](https://fakerjs.dev/)
+- [Faker JS](https://fakerjs.dev/)
 - [Chance JS](https://github.com/chancejs/chancejs)
