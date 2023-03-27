@@ -4,6 +4,7 @@
 - [Dev.to #testing](https://dev.to/t/testing)
 - [La taverne du testeur](https://latavernedutesteur.fr/) (FR)
 - [Software Testing Weekly](https://softwaretestingweekly.com/)
+- [Awesome Testing](https://github.com/sindresorhus/awesome#testing)
 
 # Certifications
 - [CFTL](https://www.cftl.fr/) (FR)
