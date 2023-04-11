@@ -2,13 +2,13 @@
 - [Ministry of Testing](https://www.ministryoftesting.com/)
 - [MoT tools list](https://www.ministryoftesting.com/directories/tools)
 - [Dev.to #testing](https://dev.to/t/testing)
-- [La taverne du testeur](https://latavernedutesteur.fr/) (FR)
 - [Software Testing Weekly](https://softwaretestingweekly.com/)
 - [Awesome Testing](https://github.com/sindresorhus/awesome#testing)
+- [La taverne du testeur](https://latavernedutesteur.fr/): FR
 
 # Certifications
-- [CFTL](https://www.cftl.fr/) (FR)
 - [ISTQB](https://www.istqb.org/)
+- [CFTL](https://www.cftl.fr/): FR
 
 
 # Softwares
@@ -34,7 +34,7 @@
 - [Testmo](https://www.testmo.com/): 💰
 
 ## Browser automation
-- [Watir](http://watir.com/) (Ruby)
+- [Watir](http://watir.com/): Ruby
 - [Selenium](https://www.selenium.dev/selenium/docs/api/javascript/index.html)
 - [SeleniumBase Case Plans](https://github.com/seleniumbase/SeleniumBase/blob/master/help_docs/case_plans.md)
 - [Pupeteer](https://pptr.dev/)
@@ -60,9 +60,9 @@
 - [Testsigma](https://github.com/testsigmahq/testsigma)
 
 ## Web Frontend testing
+- [Playwright](https://playwright.dev/)
 - [Cypress](https://www.cypress.io/)
 - [Pylenium](https://github.com/ElSnoMan/pyleniumio): Selenium + Cypress in Python
-- [Playwright](https://playwright.dev/)
 - [Testing library](https://testing-library.com/)
 - [Test Café](https://testcafe.io/)
 - [Nightwatch](https://nightwatchjs.org/)
@@ -74,21 +74,21 @@
 - [Mocha JS](https://mochajs.org/)
 - [Storybook](https://storybook.js.org/#test)
 - [Webdriver.io](https://webdriver.io/)
-- [AVA](https://github.com/avajs/ava) (node.js testing)
+- [AVA](https://github.com/avajs/ava): Node.js testing
 - [Vitest](https://vitest.dev/)
 - [Lambda Test](https://www.lambdatest.com/)
 - [QUnit](https://qunitjs.com/)
 - [Percy](https://percy.io/)
 - [BrowserStack](https://www.browserstack.com/)
-- [Headlamp Test](https://headlamptest.com/): browser extension to identify the elements tested (and not tested) on a webpage, free for 1 user and 💰 for team / entreprise
+- [Headlamp Test](https://headlamptest.com/): browser extension to identify the elements tested (and not tested) on a webpage, free for 1 user
 
 ## Mobile App testing
 - [Maestro](https://maestro.mobile.dev/)
 - [Appium](https://appium.io/)
-- [Espresso](https://developer.android.com/training/testing/espresso) (Android)
+- [Espresso](https://developer.android.com/training/testing/espresso): Android
 - [Sonic](https://github.com/SonicCloudOrg)
 - [Suitest](https://suite.st/)
-- [Vysor](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor) (android remote control on PC)
+- [Vysor](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor): Android remote control on PC
 
 ## Email / SMS testing
 - [Swift Pigeon](https://swiftpigeon.io/): Free with limited features (no SMS testing, no access to API), 💰 for more
@@ -139,10 +139,10 @@
 - [Circle CI](https://circleci.com/)
 
 ## Performance / load testing
+- [k6](https://k6.io/): Open source, 💰 SaaS option - Javascript / Typescript
 - [Gatling](https://gatling.io/): Open source, 💰 Enterprise edition - Scala DSL
-- [k6](https://k6.io/): Open source, 💰 SaaS option
-- [Artillery](https://www.artillery.io/)
-- [JMeter](https://jmeter.apache.org/)
+- [JMeter](https://jmeter.apache.org/): Open source (Java), kinda old but still maintained
+- [Artillery](https://www.artillery.io/): tests written in Yaml 😐
 
 ## Accessibility testing
 - [Axe](https://www.deque.com/axe/)
@@ -166,30 +166,30 @@
 # Tools
 
 ## Generics
-- [1password](https://1password.com/)
-- [Agent Ransack](https://www.mythicsoft.com/agentransack/) (file search)
-- [Audacity](https://www.audacityteam.org/) (audio)
+- [Keepass](https://keepass.info/): password manager
+- [Agent Ransack](https://www.mythicsoft.com/agentransack/): file search
+- [Audacity](https://www.audacityteam.org/): audio
 - [Clipboard manager](https://ditto-cp.sourceforge.io/)
-- [Fig](https://fig.io/) (terminal auto-completion)
-- [Foresight](https://www.runforesight.com/) (CI analysis)
-- [Freemind](https://freemind.sourceforge.net/wiki/index.php/Main_Page) (mind mapping)
-- [Great Expectations](https://greatexpectations.io/) (data validation)
+- [Fig](https://fig.io/): terminal auto-completion
+- [Foresight](https://www.runforesight.com/): CI analysis
+- [Freemind](https://freemind.sourceforge.net/wiki/index.php/Main_Page: mind mapping
+- [Great Expectations](https://greatexpectations.io/): data validation
 - [Hardware simulation](https://www.withdiode.com/)
-- [k9scli](https://k9scli.io/) (Kubernetes terminal-based UI)
-- [Netlimiter](https://www.netlimiter.com/) (Network bandwidth control)
-- [Page Probe](https://nodetics.com/pageprobe/) (web page monitor)
-- [Provar](https://www.provartesting.com/) (Salesforce testing)
-- [Q-Bot](https://bot.q-leap.eu/en/) (2 factor authorization testing)
-- [Ressemble](https://github.com/rsmbl/Resemble.js) (image analysis and comparison)
-- [Studio 3T](https://studio3t.com/free) (ex Robo 3T, MongoDB GUI)
-- [SonarQube](https://www.sonarqube.org/) (Static code analysis)
-- [SpiraPlan](https://www.inflectra.com/SpiraPlan/) (project management)
-- [Symflower](https://symflower.com/en/) (IDE plugin for TDD)
-- [Web font identifier](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) (chrome plugin)
-- [Wireshark](https://www.wireshark.org/) (network protocol analyzer)
+- [k9scli](https://k9scli.io/): Kubernetes terminal-based UI
+- [Netlimiter](https://www.netlimiter.com/): Network bandwidth control
+- [Page Probe](https://nodetics.com/pageprobe/): Web page monitor
+- [Provar](https://www.provartesting.com/): Salesforce testing
+- [Q-Bot](https://bot.q-leap.eu/en/): 2 factor authorization testing
+- [Ressemble](https://github.com/rsmbl/Resemble.js): image analysis and comparison
+- [Studio 3T](https://studio3t.com/free): ex Robo 3T, MongoDB GUI
+- [SonarQube](https://www.sonarqube.org/): Static code analysis
+- [SpiraPlan](https://www.inflectra.com/SpiraPlan/): project management
+- [Symflower](https://symflower.com/en/): IDE plugin for TDD
+- [Web font identifier](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): chrome plugin to identify fonts on a Web page
+- [Wireshark](https://www.wireshark.org/): network protocol analyzer
 
 ## JSON
-- [JSON Crack](https://jsoncrack.com/) (json data visualization)
+- [JSON Crack](https://jsoncrack.com/): json data visualization
 - [JSON Lint](https://jsonlint.com/)
 
 ## App profiling
@@ -202,14 +202,14 @@
 - [Marker.io](https://marker.io/)
 
 ## Screen recorders
-- [GIPHY Capture](https://giphy.com/apps/giphycapture) (macOS only)
+- [GIPHY Capture](https://giphy.com/apps/giphycapture): macOS only
 - [Flashback Express](https://www.flashbackrecorder.com/express/)
 - [Licecap](https://www.cockos.com/licecap/)
 - [Loom](https://www.loom.com/)
 - [Monosnap](https://monosnap.com/)
 - [Peek](https://github.com/phw/peek)
 - [Recordit](https://recordit.co/)
-- [Dashcam](https://www.dashcam.io/) (ex-Replayable)
+- [Dashcam](https://www.dashcam.io/): ex-Replayable
 - [Screenpresso](https://www.screenpresso.com/)
 - [ShareX](https://getsharex.com/)
 - [Tether](https://www.tethered.dev/)
@@ -221,7 +221,7 @@
 ## PDF
 - [PDF converter](https://www.cutepdf.com/index.htm)
 - [PDF diff](https://vslavik.github.io/diff-pdf/)
-- [PDF Mantis](https://github.com/grayson-norland/pdf-mantis) (data extraction)
+- [PDF Mantis](https://github.com/grayson-norland/pdf-mantis): data extraction
 
 ## Random data generators
 - [Faker JS](https://fakerjs.dev/)
