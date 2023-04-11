@@ -131,6 +131,7 @@
 - [Checkmarx](https://checkmarx.com/)
 - [Cyber chef](https://gchq.github.io/CyberChef/)
 - [OWASP-Zap](https://www.zaproxy.org/)
+- [GitGuardian](https://www.gitguardian.com/): secrets detection and remediation
 
 ## CI
 - [Jenkins](https://www.jenkins.io/)
