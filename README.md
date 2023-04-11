@@ -14,24 +14,24 @@
 # Softwares
 
 ## Application Lifecycle Management softwares
-- [Squash TM / Autom / Devops](https://www.squashtest.com/): Community (Open Source) / Premium $$$
+- [Squash TM / Autom / Devops](https://www.squashtest.com/): Community (Open Source) / Premium 💰
 - [Testlink](https://github.com/TestLinkOpenSourceTRMS/testlink-code): Open Source
-- [Testiny](https://www.testiny.io/): free for 3 users, $$$ for more
-- [XRay](https://www.getxray.app/test-management): integrated with Jira, $$$
-- [Tuskr](https://tuskr.app/): free for 5 users with limited features, $$$ for more
-- [TestRail](https://www.gurock.com/testrail): $$$
-- [Agilitest](https://fr.agilitest.com/): "no code" automation platform, $$$
-- [Aqua ALM](https://aqua-cloud.io/): $$$
-- [Refertest](https://referty.com/en/home/): $$$
-- [Micro Focus ALM](https://www.microfocus.com/fr-fr/products/alm-quality-center/overview): previously HP ALM / Quality Center, $$$
-- [National Instruments (Labview, Teststand)](https://www.ni.com/fr-fr.html): $$$
-- [XStudio](https://www.xqual.fr/): $$$
-- [Enov8 IT & Test Environment Manager](https://www.enov8.com/it-test-environment-management/): $$$
-- [Global App Testing](https://www.globalapptesting.com/): remote on-demand QA testing, $$$
-- [Practitest](https://www.practitest.com/): $$$
-- [SpiraTeam/SpiraTest](https://www.inflectra.com/SpiraTest/): $$$
-- [TestCaseLab](https://www.testcaselab.com/): $$$
-- [Testmo](https://www.testmo.com/): $$$
+- [Testiny](https://www.testiny.io/): free for 3 users, 💰 for more
+- [XRay](https://www.getxray.app/test-management): integrated with Jira, 💰
+- [Tuskr](https://tuskr.app/): free for 5 users with limited features, 💰 for more
+- [TestRail](https://www.gurock.com/testrail): 💰
+- [Agilitest](https://fr.agilitest.com/): "no code" automation platform, 💰
+- [Aqua ALM](https://aqua-cloud.io/): 💰
+- [Refertest](https://referty.com/en/home/): 💰
+- [Micro Focus ALM](https://www.microfocus.com/fr-fr/products/alm-quality-center/overview): previously HP ALM / Quality Center, 💰
+- [National Instruments (Labview, Teststand)](https://www.ni.com/fr-fr.html): 💰
+- [XStudio](https://www.xqual.fr/): 💰
+- [Enov8 IT & Test Environment Manager](https://www.enov8.com/it-test-environment-management/): 💰
+- [Global App Testing](https://www.globalapptesting.com/): remote on-demand QA testing, 💰
+- [Practitest](https://www.practitest.com/): 💰
+- [SpiraTeam/SpiraTest](https://www.inflectra.com/SpiraTest/): 💰
+- [TestCaseLab](https://www.testcaselab.com/): 💰
+- [Testmo](https://www.testmo.com/): 💰
 
 ## Browser automation
 - [Watir](http://watir.com/) (Ruby)
@@ -80,7 +80,7 @@
 - [QUnit](https://qunitjs.com/)
 - [Percy](https://percy.io/)
 - [BrowserStack](https://www.browserstack.com/)
-- [Headlamp Test](https://headlamptest.com/): browser extension to identify the elements tested (and not tested) on a webpage, free for 1 user and $$$ for team / entreprise
+- [Headlamp Test](https://headlamptest.com/): browser extension to identify the elements tested (and not tested) on a webpage, free for 1 user and 💰 for team / entreprise
 
 ## Mobile App testing
 - [Maestro](https://maestro.mobile.dev/)
@@ -91,8 +91,8 @@
 - [Vysor](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor) (android remote control on PC)
 
 ## Email / SMS testing
-- [Mailosaur](https://mailosaur.com/)
-- [Swift Pigeon](https://swiftpigeon.io/)
+- [Swift Pigeon](https://swiftpigeon.io/): Free with limited features (no SMS testing, no access to API), 💰 for more
+- [Mailosaur](https://mailosaur.com/): 💰
 
 ## API testing
 - [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
@@ -117,10 +117,10 @@
 - [Smartesting Yest](https://www.smartesting.com/conception-collaborative-tests-yest)
 
 ## General testing frameworks
+- [Pytest](https://docs.pytest.org/en/latest/contents.html)
 - [JUnit](https://junit.org/junit5/)
 - [Test NG](https://testng.org/doc/)
 - [PHPUnit](https://phpunit.de/)
-- [Pytest](https://docs.pytest.org/en/latest/contents.html)
 
 ## Security testing
 - [Kiuwan](https://www.kiuwan.com/)
@@ -133,15 +133,16 @@
 - [OWASP-Zap](https://www.zaproxy.org/)
 
 ## CI
-- [Travis CI](https://www.travis-ci.com/)
 - [Jenkins](https://www.jenkins.io/)
+- [Github Actions](https://docs.github.com/en/actions)
+- [Travis CI](https://www.travis-ci.com/)
 - [Circle CI](https://circleci.com/)
 
 ## Performance / load testing
-- [Gatling](https://gatling.io/)
+- [Gatling](https://gatling.io/): Open source, 💰 Enterprise edition - Scala DSL
+- [k6](https://k6.io/): Open source, 💰 SaaS option
 - [Artillery](https://www.artillery.io/)
 - [JMeter](https://jmeter.apache.org/)
-- [k6](https://k6.io/)
 
 ## Accessibility testing
 - [Axe](https://www.deque.com/axe/)
@@ -223,6 +224,6 @@
 - [PDF Mantis](https://github.com/grayson-norland/pdf-mantis) (data extraction)
 
 ## Random data generators
-- [Mockaroo](https://www.mockaroo.com/)
 - [Faker JS](https://fakerjs.dev/)
+- [Mockaroo](https://www.mockaroo.com/)
 - [Chance JS](https://github.com/chancejs/chancejs)
