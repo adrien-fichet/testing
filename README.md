@@ -172,7 +172,7 @@
 - [Clipboard manager](https://ditto-cp.sourceforge.io/)
 - [Fig](https://fig.io/): terminal auto-completion
 - [Foresight](https://www.runforesight.com/): CI analysis
-- [Freemind](https://freemind.sourceforge.net/wiki/index.php/Main_Page: mind mapping
+- [Freemind](https://freemind.sourceforge.net/wiki/index.php/Main_Page): mind mapping
 - [Great Expectations](https://greatexpectations.io/): data validation
 - [Hardware simulation](https://www.withdiode.com/)
 - [k9scli](https://k9scli.io/): Kubernetes terminal-based UI
