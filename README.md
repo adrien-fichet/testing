@@ -4,11 +4,11 @@
 - [Dev.to #testing](https://dev.to/t/testing)
 - [Software Testing Weekly](https://softwaretestingweekly.com/)
 - [Awesome Testing](https://github.com/sindresorhus/awesome#testing)
-- [La taverne du testeur](https://latavernedutesteur.fr/): FR
+- [La taverne du testeur](https://latavernedutesteur.fr/) [FR]
 
 # Certifications
 - [ISTQB](https://www.istqb.org/)
-- [CFTL](https://www.cftl.fr/): FR
+- [CFTL](https://www.cftl.fr/) [FR]
 
 
 # Softwares
