@@ -15,6 +15,7 @@
 
 ## Application Lifecycle Management softwares
 - [Squash TM / Autom / Devops](https://www.squashtest.com/): Community (Open Source) / Premium 💰
+- [Testomat.io](https://testmat.io/): Test management system for automated tests, 💰
 - [Testlink](https://github.com/TestLinkOpenSourceTRMS/testlink-code): Open Source
 - [Testiny](https://www.testiny.io/): free for 3 users, 💰 for more
 - [XRay](https://www.getxray.app/test-management): integrated with Jira, 💰
