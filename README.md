@@ -1,9 +1,10 @@
 # Aggregators / news
+- [Software Testing Weekly](https://softwaretestingweekly.com/)
 - [Ministry of Testing](https://www.ministryoftesting.com/)
 - [MoT tools list](https://www.ministryoftesting.com/directories/tools)
 - [Dev.to #testing](https://dev.to/t/testing)
-- [Software Testing Weekly](https://softwaretestingweekly.com/)
 - [Awesome Testing](https://github.com/sindresorhus/awesome#testing)
+- [Software Testing Magazine](https://www.softwaretestingmagazine.com/)
 - [La taverne du testeur](https://latavernedutesteur.fr/) [FR]
 
 # Certifications
