@@ -169,6 +169,7 @@
 # Tools
 
 ## Generics
+- [Ray.run tools](https://ray.run/tools): a collection of useful QA tools (online)
 - [Keepass](https://keepass.info/): password manager
 - [Agent Ransack](https://www.mythicsoft.com/agentransack/): file search
 - [Audacity](https://www.audacityteam.org/): audio
