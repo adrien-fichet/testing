@@ -64,6 +64,7 @@
 ## Web Frontend testing
 - [Playwright](https://playwright.dev/)
 - [Cypress](https://www.cypress.io/)
+- [CodeceptJS](https://codecept.io/)E2E testing framework with a special unificated BDD-style syntax for different frameworks.
 - [Pylenium](https://github.com/ElSnoMan/pyleniumio): Selenium + Cypress in Python
 - [Testing library](https://testing-library.com/)
 - [Test Café](https://testcafe.io/)
