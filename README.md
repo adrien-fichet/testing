@@ -15,25 +15,25 @@
 # Softwares
 
 ## Application Lifecycle Management softwares
-- [Squash TM / Autom / Devops](https://www.squashtest.com/): Community (Open Source) / Premium 💰
-- [Testomat.io](https://testmat.io/): Test management system for automated tests, 💰
+- [Squash TM / Autom / Devops](https://www.squashtest.com/): Community (Open Source) / Premium
+- [Testomat.io](https://testmat.io/): Test management system for automated tests
 - [Testlink](https://github.com/TestLinkOpenSourceTRMS/testlink-code): Open Source
-- [Testiny](https://www.testiny.io/): free for 3 users, 💰 for more
-- [XRay](https://www.getxray.app/test-management): integrated with Jira, 💰
-- [Tuskr](https://tuskr.app/): free for 5 users with limited features, 💰 for more
-- [TestRail](https://www.gurock.com/testrail): 💰
-- [Agilitest](https://fr.agilitest.com/): "no code" automation platform, 💰
-- [Aqua ALM](https://aqua-cloud.io/): 💰
-- [Refertest](https://referty.com/en/home/): 💰
-- [Micro Focus ALM](https://www.microfocus.com/fr-fr/products/alm-quality-center/overview): previously HP ALM / Quality Center, 💰
-- [National Instruments (Labview, Teststand)](https://www.ni.com/fr-fr.html): 💰
-- [XStudio](https://www.xqual.fr/): 💰
-- [Enov8 IT & Test Environment Manager](https://www.enov8.com/it-test-environment-management/): 💰
-- [Global App Testing](https://www.globalapptesting.com/): remote on-demand QA testing, 💰
-- [Practitest](https://www.practitest.com/): 💰
-- [SpiraTeam/SpiraTest](https://www.inflectra.com/SpiraTest/): 💰
-- [TestCaseLab](https://www.testcaselab.com/): 💰
-- [Testmo](https://www.testmo.com/): 💰
+- [Testiny](https://www.testiny.io/)
+- [XRay](https://www.getxray.app/test-management): integrated with Jira
+- [Tuskr](https://tuskr.app/)
+- [TestRail](https://www.gurock.com/testrail)
+- [Agilitest](https://fr.agilitest.com/): "no code" automation platform
+- [Aqua ALM](https://aqua-cloud.io/)
+- [Refertest](https://referty.com/en/home/)
+- [Micro Focus ALM](https://www.microfocus.com/fr-fr/products/alm-quality-center/overview): previously HP ALM / Quality Center
+- [National Instruments (Labview, Teststand)](https://www.ni.com/fr-fr.html)
+- [XStudio](https://www.xqual.fr/)
+- [Enov8 IT & Test Environment Manager](https://www.enov8.com/it-test-environment-management/)
+- [Global App Testing](https://www.globalapptesting.com/): remote on-demand QA testing
+- [Practitest](https://www.practitest.com/)
+- [SpiraTeam/SpiraTest](https://www.inflectra.com/SpiraTest/)
+- [TestCaseLab](https://www.testcaselab.com/)
+- [Testmo](https://www.testmo.com/)
 
 ## Browser automation
 - [Watir](http://watir.com/): Ruby
@@ -57,9 +57,17 @@
 - [Rapise](https://www.inflectra.com/Rapise/)
 - [TAST](https://www.sipsa.net/en/tast-test-automation-system-tool-2/)
 - [Testim](https://www.testim.io/)
-- [TestKube](https://kubeshop.github.io/testkube/)
 - [TestRigor](https://testrigor.com/)
 - [Testsigma](https://github.com/testsigmahq/testsigma)
+
+## Kubernetes testing
+- [TestKube](https://kubeshop.github.io/testkube/)
+- [Sonobuoy](https://sonobuoy.io/)
+- [Kyverno Chainsaw](https://kyverno.github.io/chainsaw/latest/)
+
+## Chaos testing
+- [Litmus](https://github.com/litmuschaos/litmus)
+- [Steadybit](https://steadybit.com/)
 
 ## Web Frontend testing
 - [Playwright](https://playwright.dev/)
@@ -93,8 +101,8 @@
 - [Vysor](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor): Android remote control on PC
 
 ## Email / SMS testing
-- [Swift Pigeon](https://swiftpigeon.io/): Free with limited features (no SMS testing, no access to API), 💰 for more
-- [Mailosaur](https://mailosaur.com/): 💰
+- [Swift Pigeon](https://swiftpigeon.io/): Free with limited features (no SMS testing, no access to API)
+- [Mailosaur](https://mailosaur.com/)
 
 ## API testing
 - [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
@@ -142,10 +150,10 @@
 - [Circle CI](https://circleci.com/)
 
 ## Performance / load testing
-- [k6](https://k6.io/): Open source, 💰 SaaS option - Javascript / Typescript
-- [Gatling](https://gatling.io/): Open source, 💰 Enterprise edition - Scala DSL
-- [JMeter](https://jmeter.apache.org/): Open source (Java), kinda old but still maintained
-- [Artillery](https://www.artillery.io/): tests written in Yaml 😐
+- [k6](https://k6.io/): Open source and SaaS option - Javascript / Typescript
+- [Gatling](https://gatling.io/): Open source and Enterprise edition - Scala DSL
+- [JMeter](https://jmeter.apache.org/): Open source (Java), old but still maintained
+- [Artillery](https://www.artillery.io/): tests written in Yaml
 
 ## Accessibility testing
 - [Axe](https://www.deque.com/axe/)
@@ -179,7 +187,6 @@
 - [Freemind](https://freemind.sourceforge.net/wiki/index.php/Main_Page): mind mapping
 - [Great Expectations](https://greatexpectations.io/): data validation
 - [Hardware simulation](https://www.withdiode.com/)
-- [k9scli](https://k9scli.io/): Kubernetes terminal-based UI
 - [Netlimiter](https://www.netlimiter.com/): Network bandwidth control
 - [Page Probe](https://nodetics.com/pageprobe/): Web page monitor
 - [Provar](https://www.provartesting.com/): Salesforce testing
@@ -192,9 +199,19 @@
 - [Web font identifier](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): chrome plugin to identify fonts on a Web page
 - [Wireshark](https://www.wireshark.org/): network protocol analyzer
 
+## Kubernetes
+- [k9s](https://k9scli.io/): Kubernetes terminal-based UI
+- [Lens](https://k8slens.dev/): Kubernetes GUI
+
 ## JSON
 - [JSON Crack](https://jsoncrack.com/): json data visualization
 - [JSON Lint](https://jsonlint.com/)
+
+## Monitoring / Observability
+- [Sentry](https://sentry.io/welcome/)
+- [Grafana](https://grafana.com/)
+- [Prometheus](https://prometheus.io/)
+- [ELK](https://www.elastic.co/elastic-stack)
 
 ## App profiling
 - [Sidekick](https://www.runsidekick.com/)
