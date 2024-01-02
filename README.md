@@ -90,7 +90,7 @@
 - [QUnit](https://qunitjs.com/)
 - [Percy](https://percy.io/)
 - [BrowserStack](https://www.browserstack.com/)
-- [Headlamp Test](https://headlamptest.com/): browser extension to identify the elements tested (and not tested) on a webpage, free for 1 user
+- [Headlamp Test](https://headlamptest.com/): browser extension to identify the elements tested (and not tested) on a webpage
 
 ## Mobile App testing
 - [Maestro](https://maestro.mobile.dev/)
@@ -101,7 +101,6 @@
 - [Vysor](https://play.google.com/store/apps/details?id=com.koushikdutta.vysor): Android remote control on PC
 
 ## Email / SMS testing
-- [Swift Pigeon](https://swiftpigeon.io/): Free with limited features (no SMS testing, no access to API)
 - [Mailosaur](https://mailosaur.com/)
 
 ## API testing
