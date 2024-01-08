@@ -237,6 +237,7 @@
 ## HTTP monitor / reverse proxies
 - [Fiddler](https://www.telerik.com/fiddler)
 - [Charles](https://www.charlesproxy.com/)
+- [mitmproxy](https://mitmproxy.org/)
 
 ## PDF
 - [PDF converter](https://www.cutepdf.com/index.htm)
