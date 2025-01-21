@@ -105,6 +105,7 @@
 
 ## API testing
 - [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
+- [Bruno](https://www.usebruno.com/)
 - [Postman](https://www.postman.com/)
 - [SOAPUI](https://www.soapui.org/)
 - [Hyper Test](https://www.hypertest.co/)
