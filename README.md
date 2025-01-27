@@ -68,6 +68,7 @@
 ## Chaos testing
 - [Litmus](https://github.com/litmuschaos/litmus)
 - [Steadybit](https://steadybit.com/)
+- [Chaos Monkey](https://netflix.github.io/chaosmonkey/)
 
 ## Web Frontend testing
 - [Playwright](https://playwright.dev/)
@@ -104,9 +105,10 @@
 - [Mailosaur](https://mailosaur.com/)
 
 ## API testing
-- [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
 - [Bruno](https://www.usebruno.com/)
+- [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
 - [Postman](https://www.postman.com/)
+- [Insomnia](https://insomnia.rest/)
 - [SOAPUI](https://www.soapui.org/)
 - [Hyper Test](https://www.hypertest.co/)
 - [Keploy](https://github.com/keploy/keploy)
@@ -249,3 +251,7 @@
 - [Faker JS](https://fakerjs.dev/)
 - [Mockaroo](https://www.mockaroo.com/)
 - [Chance JS](https://github.com/chancejs/chancejs)
+
+# Fake websites / API for testing
+- [List of websites to practice testing](https://www.ministryoftesting.com/articles/websites-to-practice-testing)
+- [Reqres.in](https://reqres.in/): fake REST API
