@@ -104,6 +104,7 @@
 
 ## Email / SMS testing
 - [Mailosaur](https://mailosaur.com/)
+- [MailSlurp](https://www.mailslurp.com/)
 
 ## API testing
 - [Bruno](https://www.usebruno.com/)
