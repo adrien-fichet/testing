@@ -116,6 +116,7 @@
 - [Keploy](https://github.com/keploy/keploy)
 - [RestSharp](https://restsharp.dev/) (.NET)
 - [Pactum JS](https://pactumjs.github.io/)
+- [HttpMaster](https://www.httpmaster.net/)
 
 ## BDD
 - [Cucumber](https://cucumber.io/)
