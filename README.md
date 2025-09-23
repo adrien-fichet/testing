@@ -149,6 +149,7 @@
 - [GitGuardian](https://www.gitguardian.com/): secrets detection and remediation
 
 ## CI
+- [GitLab](https://about.gitlab.com/)
 - [Jenkins](https://www.jenkins.io/)
 - [Github Actions](https://docs.github.com/en/actions)
 - [Travis CI](https://www.travis-ci.com/)
@@ -171,6 +172,7 @@
 - [Functionize](https://www.functionize.com)
 - [Mesmer](https://report.mesmerhq.com/)
 - [Parasoft SOAtest](https://www.parasoft.com/products/parasoft-soatest/)
+- [Magnitude](https://magnitude.run/)
 
 ## Exploratory testing
 - [Bug Magnet](https://bugmagnet.org/)
@@ -254,6 +256,9 @@
 - [Faker JS](https://fakerjs.dev/)
 - [Mockaroo](https://www.mockaroo.com/)
 - [Chance JS](https://github.com/chancejs/chancejs)
+
+## Test reporting
+- [Allure](https://allurereport.org/)
 
 # Fake websites / API for testing
 - [List of websites to practice testing](https://www.ministryoftesting.com/articles/websites-to-practice-testing)
