@@ -106,7 +106,9 @@
 - [Mailosaur](https://mailosaur.com/)
 - [MailSlurp](https://www.mailslurp.com/)
 
-## API testing
+## API testing / GUIs
+- [Pact](https://pact.io/)
+- [Orval](https://orval.dev/)
 - [Bruno](https://www.usebruno.com/)
 - [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
 - [Postman](https://www.postman.com/)
