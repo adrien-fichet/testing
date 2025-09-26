@@ -69,6 +69,8 @@
 - [Litmus](https://github.com/litmuschaos/litmus)
 - [Steadybit](https://steadybit.com/)
 - [Chaos Monkey](https://netflix.github.io/chaosmonkey/)
+- [Chaos Mesh](https://chaos-mesh.org)
+- [Gremlin](https://www.gremlin.com/)
 
 ## Web Frontend testing
 - [Playwright](https://playwright.dev/)
