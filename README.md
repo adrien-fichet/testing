@@ -112,6 +112,7 @@
 - [Pact](https://pact.io/)
 - [Orval](https://orval.dev/)
 - [Bruno](https://www.usebruno.com/)
+- [Wiremock](https://wiremock.org/)
 - [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
 - [Postman](https://www.postman.com/)
 - [Insomnia](https://insomnia.rest/)
