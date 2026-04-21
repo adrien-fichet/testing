@@ -113,6 +113,7 @@
 - [Orval](https://orval.dev/)
 - [Bruno](https://www.usebruno.com/)
 - [Wiremock](https://wiremock.org/)
+- [MSW](https://mswjs.io/)
 - [Thunder Client](https://www.thunderclient.com/): REST API client integrated into VS Code
 - [Postman](https://www.postman.com/)
 - [Insomnia](https://insomnia.rest/)
