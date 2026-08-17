@@ -172,6 +172,7 @@
 - [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 ## "AI-powered"
+- [Agent QA](https://github.com/vostride/agent-qa): Source-available CLI and MCP server for orchestrating agent-led QA workflows across web, Android, and iOS targets
 - [Applitools eyes](https://applitools.com/platform/eyes/)
 - [Dev Tools AI](https://www.dev-tools.ai/)
 - [Eggplant DAI](https://www.eggplantsoftware.com/products/test-automation-intelligence)
