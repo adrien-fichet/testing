@@ -107,6 +107,7 @@
 ## Email / SMS testing
 - [Mailosaur](https://mailosaur.com/)
 - [MailSlurp](https://www.mailslurp.com/)
+- [ShazaMail](https://shazamail.com/)
 
 ## API testing / GUIs
 - [Pact](https://pact.io/)
